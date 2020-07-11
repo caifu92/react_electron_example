@@ -28,7 +28,7 @@
     "babel-loader": "^8.0.5",
     "css-loader": "^2.1.0",
     "del": "^3.0.0",
-    "electron": "^4.0.2",
+    "electron": "^7.2.4",
     "electron-installer-debian": "^1.1.0",
     "electron-packager": "^13.0.1",
     "eslint": "^5.12.1",
